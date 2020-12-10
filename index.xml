@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>Relaxing with Lagrange</title>
         <link>ftubilla.github.io/</link>
-        <description>My New Hugo Site</description>
+        <description>Relaxing with Lagrange</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 09 Dec 2020 18:42:21 -0500</lastBuildDate>
             <atom:link href="ftubilla.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
